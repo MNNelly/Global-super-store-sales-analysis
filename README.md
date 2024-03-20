@@ -1,4 +1,4 @@
-# Global-super-store-sales-analysis
+# Global-super-store-sales-analysis-using-Power BI
 # Introduction
 This marked my debut Power BI project—a challenge I eagerly embraced. The dataset, sourced from Kaggle, was in CSV format.
 # Background
